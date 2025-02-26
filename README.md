@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 My Insta Id harshz_arts
-- ⚡ Fun fact: I'm a nocturnal.
+- ⚡ Fun fact: I'm nocturnal.
 
 <!---
 CoderBatman404/CoderBatman404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
